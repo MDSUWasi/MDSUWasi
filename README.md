@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MDSUWasi
+- 👋 Hi, I’m @Md. Shafi Un Wasi
 - 👀 I’m interested in Computer Technology
 - 🌱 I’m currently learning Development
 - 💞️ I’m working to make technology more better.
 - 😄 One day everyone will remember my name as technology hero
-- ⚡ Fun fact: ... i am learning since 2014 (Birth on 2009)
+- ⚡ Fun fact: ... I am learning since 2014 (Birth on 2009)
 
 <!---
 MDSUWasi/MDSUWasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
