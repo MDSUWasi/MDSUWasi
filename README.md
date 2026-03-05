@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @Md. Shafi Un Wasi
-- 👀 I’m interested in Computer Technology
-- 🌱 I’m currently on the way to combine Quantum Mechanics with Computer Science + Robotics.
-- 💞️ I’m working to make technology more better by combining Physics.
-- 😄 One day everyone will remember my name as technophysics hero
-- ⚡ Fun fact: ... I am developing thoughts since 2014 and applying from 2023
+<h1 align="center">Md.S.U.Wasi</h1>
+<p align="center">
+Physics • Mathematics • Computer Science
+</p>
 
-<!---
-MDSUWasi/MDSUWasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+Student interested in scientific computing, open-source software, 
+and algorithmic problem solving.
+</p>
+
+---
+
+## About Me
+
+* Student focused on **Physics, Chemistry, and Mathematics**
+* Interested in **Computer Science and Linux systems**
+* Learning **Python, algorithms, and system tools**
+* Interested in **scientific research and open source**
+
+---
+
+## Areas of Interest
+
+* Scientific Computing
+* Algorithms and Problem Solving
+* Linux and System Programming
+* Environmental Science Research
+* Open Source Development
+
+
+---
+
+## Current Focus
+
+* Studying advanced **Mathematics and Physics**
+* Building small **open-source tools**
+* Learning **data analysis with Python**
+* Contributing to **open-source projects**
+
+
+---
+
+## Research Interests
+
+* Environmental data analysis
+* Mathematical modeling
+* Computational physics
+
+---
+
+
+*"Focused on learning, building, and contributing."*
