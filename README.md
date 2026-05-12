@@ -12,7 +12,7 @@ and algorithmic problem solving.
 
 ## About Me
 
-* Student focused on **Physics, Chemistry, and Mathematics**
+* Student focused on **Physics, Computer Science, and Mathematics**
 * Interested in **Computer Science and Linux systems**
 * Learning **Python, algorithms, and system tools**
 * Interested in **scientific research and open source**
