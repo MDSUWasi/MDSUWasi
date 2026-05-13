@@ -24,8 +24,8 @@ and algorithmic problem solving.
 * Scientific Computing
 * Algorithms and Problem Solving
 * Linux and System Programming
-* Environmental Science Research
-* Open Source Development
+* Quantum Science
+* Astronomy
 
 
 ---
@@ -42,7 +42,7 @@ and algorithmic problem solving.
 
 ## Research Interests
 
-* Environmental data analysis
+* Quantum Physics and Astronomy
 * Mathematical modeling
 * Computational physics
 
