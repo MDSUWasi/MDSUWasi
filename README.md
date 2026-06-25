@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a grade 11 student who likes technology, computer science, astronomy and quantum physics (Note: I like all of them equally because for me all of those fields are connected)<br><br>🔭 I’m currently working on my own open-source projects.<br>🌱 I’m currently learning A-Levels (Academics), Physics (Beyond my academic syllabus specially astrophysics and quantum physics), Computer Science (From core to AI).<br>💬 Ask me about open science.<br>⚡ Fun fact: I develop things to make my own life easy but it ultimately makes other life easy too.
+I am a grade 11 student who likes technology, computer science, astronomy and quantum physics (Note: I like all of them equally because for me all of those fields are connected)<br><br>🔭 I’m currently working on my own open-source projects.<br>🌱 I’m currently learning A-Levels (Academics), Physics (Beyond my academic syllabus specially astrophysics and quantum physics), Computer Science (From core to AI).<br>💬 Ask me about open science.<br>⚡ Fun fact: I develop things to make my own life easy but it ultimately makes others life easy too.
 
 
 ## 🌐 Socials:
