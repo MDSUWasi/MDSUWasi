@@ -19,6 +19,4 @@ I am a grade 11 student who likes technology, computer science, astronomy and qu
 ![](https://github-contributor-stats.vercel.app/api?username=MDSUWasi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MDSUWasi&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
