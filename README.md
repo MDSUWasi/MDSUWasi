@@ -12,6 +12,9 @@ I am a grade 11 student who likes technology, computer science, astronomy and qu
 ![](https://streak-stats.demolab.com/?user=MDSUWasi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MDSUWasi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Hacktime Stats
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=37914&api_domain=hackatime.hackclub.com&theme=great-gatsby&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MDSUWasi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
