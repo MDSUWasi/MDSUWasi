@@ -1,7 +1,7 @@
 # 👋Hi, I am Wasi,
 I am a grade 11 student who likes technology, computer science, astronomy and quantum physics (Note: I like all of them equally because for me all of those fields are connected)
 <br><br>
-🤝 I’m currently working on my own open-source project: <h2>Was Ecosystem.</h>
+🤝 I’m currently working on my own open-source project: <h2>Was Ecosystem.</h2>
 <br>
 📚I’m currently learning A-Levels (Academics), Physics (Beyond my academic syllabus specially astrophysics and quantum physics), Computer Science (From core to AI).
 <br>
